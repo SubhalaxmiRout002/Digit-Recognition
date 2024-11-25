@@ -1,2 +1,23 @@
-# Digit-Recognition
-Digit Recognition Model using Keras
+# Digit Recognition using Keras
+
+## Overview
+A deep learning model built with Keras to recognize handwritten digits from the MNIST dataset.
+
+## Features
+- Implementation of Convolutional Neural Network (CNN)
+- MNIST dataset processing
+- Real-time digit recognition
+- High accuracy prediction
+
+## Technologies
+- Python
+- Keras
+- TensorFlow
+- NumPy
+- Matplotlib
+
+## Installation
+```bash
+pip install tensorflow
+pip install numpy
+pip install matplotlib
